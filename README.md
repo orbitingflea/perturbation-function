@@ -12,9 +12,7 @@ This project is the **verification program** for the paper _On the Perturbation 
 
 ## Screenshots
 
-```
 ![Screenshot](./img/screenshot.png)
-```
 
 ## Usage
 
