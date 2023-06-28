@@ -8,7 +8,7 @@
 * [Usage](#usage)
 
 ## General Information
-This project is the **verification program** for the paper _On the Perturbation Function of Ranking and Balance for Weighted Online Bipartite Matching_. It computes the numerical integral in Appendix B of the paper and tries to make the contradiction for given $\Gamma$.
+This project is the **verification program** for the paper _On the Perturbation Function of Ranking and Balance for Weighted Online Bipartite Matching_ ([arXiv link](https://arxiv.org/abs/2210.10370)). It computes the numerical integral in Appendix B of the paper and tries to make the contradiction for given $\Gamma$.
 ## Technologies Used
 * MATLAB R2022a.
 
